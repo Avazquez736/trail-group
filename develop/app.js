@@ -6,7 +6,7 @@ const token = ['BQDT45M92vmQot5RDWKImrSFZzKcju4U1meDnt4Ng9wlE3eBevN4zsEX91_a3I5e
 // Initialize the Web Playback SDK player
 
 var clientId = 'f9fa22545bd34088ab42a89de947c57a';
-    var redirectUri = 'https://avazquez736.github.io/trail-group/';
+    var redirectUri = 'http://127.0.0.1:5500/call.html';
 
     // Spotify API endpoint
     var apiEndpoint = 'https://api.spotify.com/v1';
